@@ -1,0 +1,12 @@
+{
+  "name": "billing-frontend",
+  "version": "1.0.0",
+  "description": "gst billing front end application developedin angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
