@@ -2,7 +2,7 @@
   "name": "billing-frontend",
   "version": "1.0.0",
   "description": "gst billing front end application developedin angular",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
